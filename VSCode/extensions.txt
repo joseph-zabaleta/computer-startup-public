@@ -1,0 +1,17 @@
+albert.tabout-0.2.0
+christian-kohler.npm-intellisense-1.4.0
+christian-kohler.path-intellisense-2.4.0
+coenraads.bracket-pair-colorizer-1.0.61
+dbaeumer.vscode-eslint-2.1.23
+formulahendry.auto-close-tag-0.5.11
+hollowtree.vue-snippets-1.0.4
+johnpapa.vscode-peacock-3.9.1
+ms-azuretools.vscode-docker-1.15.0
+ms-python.python-2021.7.1060902895
+ms-python.vscode-pylance-2021.7.5
+ms-toolsai.jupyter-2021.8.1054968649
+ms-vscode.powershell-2021.6.2
+ms-vscode-remote.remote-wsl-0.58.2
+octref.vetur-0.34.1
+pkief.material-icon-theme-4.8.0
+sdras.night-owl-2.0.1
